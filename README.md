@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/teusdiniz/teusdiniz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/teusdiniz/output/snake.svg" alt="Snake animation" />
 
 ###
 
